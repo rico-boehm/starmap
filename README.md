@@ -1,2 +1,2 @@
 # starmap
-A map of the hundred birghtest stars
+A map of the hundred birghtest stars with data from
